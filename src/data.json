@@ -129,5 +129,27 @@
         "description": "The goal was to build an API with authentication to implement a registration flow, using access token and to securly save passwords in a database.  >>>",
         "tools": ["HTML", "CSS", "JavaScript", "React", "Redux", "Node.js", "Backend"],
         "featured": true
-      }                 
+      },
+      {
+        "id": "13",
+        "title": "Meal planner",
+        "name": "Meal planner",
+        "image": "https://images2.imgbox.com/e2/3e/KcgJkPA7_o.png?download=true",
+        "netlify": "https://foodify-meal-planner.netlify.app/",
+        "github": "https://github.com/agadman/meal-planner",
+        "description": "This is an application that helps with your meal planning needs as finding recipes, save your favorite recipes and save ingredients from the recipes you plan to cook to your shopping list.  >>>",
+        "tools": ["JavaScript", "React", "Redux", "Node.js", "Backend"],
+        "featured": true
+      },
+      {
+        "id": "14",
+        "title": "Pottery by Hedvig",
+        "name": "Pottery by Hedvig",
+        "image": "https://images2.imgbox.com/8c/6b/AETlh7Lw_o.png?download=true",
+        "netlify": "https://potterybyhedvig.com",
+        "github": "https://github.com/agadman/pottery-by-hedvig",
+        "description": "This is an application showcasing pottery artist and her work.  >>>",
+        "tools": ["JavaScript", "React"],
+        "featured": true
+      }                            
   ]
